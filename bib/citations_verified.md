@@ -92,12 +92,12 @@ Verification rule: a citation is **VERIFIED** only if the **title** and **author
   - v1.0.2 correction: fixed author list.
 
 - **arora2024causalgym**
-  - Primary source: ACL Anthology paper page (`https://aclanthology.org/2024.acl-long.279/`).
+  - Primary source: ACL Anthology paper page (`https://aclanthology.org/2024.acl-long.785/`).
   - Used in: `paper/03_RELATED_WORK.md`.
   - v1.0.2 correction: none.
 
 - **geva2023recall**
-  - Primary source: ACL Anthology paper page (`https://aclanthology.org/2023.emnlp-main.469/`).
+  - Primary source: ACL Anthology paper page (`https://aclanthology.org/2023.emnlp-main.751/`).
   - Used in: (not cited in pack text).
   - v1.0.2 correction: none.
 
@@ -117,7 +117,7 @@ Verification rule: a citation is **VERIFIED** only if the **title** and **author
   - v1.0.2 correction: none.
 
 - **eberhardt2012experiments**
-  - Primary source: arXiv abstract page (`https://arxiv.org/abs/1206.6365`).
+  - Primary source: arXiv abstract page (`https://arxiv.org/abs/1206.3250`).
   - Used in: `paper/03_RELATED_WORK.md`.
   - v1.0.2 correction: none.
 
